@@ -1,2 +1,0 @@
-# esquema
-sitio web
